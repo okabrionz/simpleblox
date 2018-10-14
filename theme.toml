@@ -12,7 +12,7 @@ min_version = "0.41"
 
 [author]
   name = "Oka bRionZ"
-  homepage = "https://www.okabrionz.com/theme/simpleblox"
+  homepage = "https://www.okabrionz.com/"
 
 # If porting an existing theme
 [original]
