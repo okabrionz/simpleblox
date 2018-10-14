@@ -11,7 +11,7 @@ build using Bootstrap 4.1.3
 Inside the folder of your Hugo site run:
 
     $ cd themes
-    $ git clone https://github.com/digitalcraftsman/hugo-artists-theme
+    $ git clone https://github.com/okabrionz/simpleblox
 
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
@@ -23,7 +23,7 @@ After installing the Artists Theme successfully it requires a just a few more st
 
 ### The config file
 
-Take a look inside the [`exampleSite`](//github.com/digitalcraftsman/hugo-artists-theme/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](//github.com/digitalcraftsman/hugo-artists-theme/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](//github.com/digitalcraftsman/hugo-artists-theme/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to customize this theme as you like.
+Take a look inside the [`exampleSite`](//github.com/okabrionz/simpleblox/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](//github.com/okabrionz/simpleblox/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](//github.com/okabrionz/simpleblox/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to customize this theme as you like.
 
 ### Config Settings
 
