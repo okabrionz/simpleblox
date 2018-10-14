@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{.Title}} - {{.Site.Title}}</title>
+
+    <style type="text/css">{{partial "styles.css" . | safeCSS}}
+    </style>
+
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+</head>
+
+<body>
+    {{- partialCached "navbar" . -}}
+    <main id="content">
+        <div class="container">
+            {{- block "main" .}}{{- end}}
+        </div>
+    </main>
+    {{partialCached "footer" . }}
+</body>
+
+</html>
