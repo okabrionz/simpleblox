@@ -1,17 +1,18 @@
 # Simple Blox
-Simple and blazing fast Bootstrap 4 Theme for your blog.
+Simple and blazing fast Bootstrap 4 Theme for Your blog.
 
-build using Bootstrap 4.1.3
+Build using [Bootstrap 4.1.3](https://getbootstrap.com/) dedicated for [Hugo Themes](https://themes.gohugo.io/)
 
-![Hugo Artists Theme screenshot](https://raw.githubusercontent.com/okabrionz/simpleblox/master/images/screenshot.webp)
+![Hugo Simple Blox Theme](https://raw.githubusercontent.com/okabrionz/simpleblox/master/images/screenshot.jpg)
 
 
 ## Installation
 
 Inside the folder of your Hugo site run:
 
-    $ cd themes
-    $ git clone https://github.com/okabrionz/simpleblox
+    cd themes
+    git clone https://github.com/okabrionz/simpleblox
+    setup the *config* file like [here an example](#config-settings)
 
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
@@ -28,7 +29,7 @@ Take a look inside the [`exampleSite`](//github.com/okabrionz/simpleblox/tree/ma
 ### Config Settings
 
 ```
-baseurl = "https://example.com/"
+baseurl = "/"
 title = "Your Website Title"
 author = "John Doe"
 copyright = "Copyright © 2008–2018, John Doe all rights reserved." #You can also use HTML code here.
@@ -47,3 +48,8 @@ github = "okabrionz"
     url = "/"
     weight = "-10"
 ```
+If You have any feature requests and ideas, please feel free to [submit new Issue](https://github.com/okabrionz/simpleblox/issues/new).
+
+Ready to rock?!
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/okabrionz/simplebloxDeploy)
