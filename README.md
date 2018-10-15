@@ -19,7 +19,7 @@ For more information read the official [setup guide](//gohugo.io/overview/instal
 
 ## Getting started
 
-After installing the Artists Theme successfully it requires a just a few more steps to get your site finally running.
+After installing the **Simple Blox Theme** successfully it requires a just a few more steps to get your site finally running.
 
 
 ### The config file
