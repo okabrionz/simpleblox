@@ -12,7 +12,6 @@ Inside the folder of your Hugo site run:
 
     cd themes
     git clone https://github.com/okabrionz/simpleblox
-    setup the *config* file like [here an example](#config-settings)
 
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
